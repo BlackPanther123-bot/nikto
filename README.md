@@ -139,5 +139,5 @@ $ perl nikto.pl -h
 
 
 __________________
-                                                 © Mahesh_Pawar 
+                                             © Mahesh_Pawar 
 _________________
