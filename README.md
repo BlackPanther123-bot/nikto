@@ -112,3 +112,31 @@ Basic usage:
        -vhost+            Virtual host (for Host header)
               + requires a value
 ```
+
+
+📝 *Usage* :- 
+
+Web vunerability scanning in termux.
+
+*Nikto*
+
+$ pkg install perl
+
+$ pkg install git
+
+$ git clone  https://github.com/sullo/nikto
+
+$ ls
+
+$ cd nikto
+
+$ ls
+
+$ cd program
+
+$ perl nikto.pl -h 
+
+
+
+➖➖➖➖➖➖➖➖➖➖➖
+ © Mahesh_Pawar 
